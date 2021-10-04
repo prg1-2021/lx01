@@ -1,5 +1,5 @@
 lazy val common_project = Seq(
-  organization := "prg20",
+  organization := "prg21",
   version := "0.1-SNAPSHOT",
 
   run / fork := true,
